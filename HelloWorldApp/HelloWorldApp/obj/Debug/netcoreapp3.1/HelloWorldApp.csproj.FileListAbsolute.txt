@@ -1,0 +1,14 @@
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.deps.json
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.runtimeconfig.json
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.runtimeconfig.dev.json
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.dll
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.pdb
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.csproj.AssemblyReference.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.AssemblyInfoInputs.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.AssemblyInfo.cs
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.csproj.CoreCompileInputs.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.dll
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.pdb
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.genruntimeconfig.cache
