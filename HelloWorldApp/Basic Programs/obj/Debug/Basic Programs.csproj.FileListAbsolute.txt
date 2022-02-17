@@ -1,0 +1,7 @@
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Basic Programs\bin\Debug\Basic Programs.exe.config
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Basic Programs\bin\Debug\Basic Programs.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Basic Programs\bin\Debug\Basic Programs.pdb
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Basic Programs\obj\Debug\Basic Programs.csproj.AssemblyReference.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Basic Programs\obj\Debug\Basic Programs.csproj.CoreCompileInputs.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Basic Programs\obj\Debug\Basic Programs.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Basic Programs\obj\Debug\Basic Programs.pdb

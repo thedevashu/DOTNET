@@ -1,0 +1,10 @@
+Z:\IET_DAC\.NET_Code\HelloWorldApp\GrapicsApp\bin\Debug\GrapicsApp.exe.config
+Z:\IET_DAC\.NET_Code\HelloWorldApp\GrapicsApp\bin\Debug\GrapicsApp.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\GrapicsApp\bin\Debug\GrapicsApp.pdb
+Z:\IET_DAC\.NET_Code\HelloWorldApp\GrapicsApp\bin\Debug\GraphicLibClass.dll
+Z:\IET_DAC\.NET_Code\HelloWorldApp\GrapicsApp\bin\Debug\GraphicLibClass.pdb
+Z:\IET_DAC\.NET_Code\HelloWorldApp\GrapicsApp\obj\Debug\GrapicsApp.csproj.AssemblyReference.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\GrapicsApp\obj\Debug\GrapicsApp.csproj.CoreCompileInputs.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\GrapicsApp\obj\Debug\GrapicsApp.csproj.CopyComplete
+Z:\IET_DAC\.NET_Code\HelloWorldApp\GrapicsApp\obj\Debug\GrapicsApp.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\GrapicsApp\obj\Debug\GrapicsApp.pdb

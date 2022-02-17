@@ -1,0 +1,10 @@
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HRApp2\obj\Debug\HRApp2.csproj.AssemblyReference.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HRApp2\obj\Debug\HRApp2.csproj.CoreCompileInputs.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HRApp2\bin\Debug\HRApp2.exe.config
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HRApp2\bin\Debug\HRApp2.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HRApp2\bin\Debug\HRApp2.pdb
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HRApp2\bin\Debug\HRLib2.dll
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HRApp2\bin\Debug\HRLib2.pdb
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HRApp2\obj\Debug\HRApp2.csproj.CopyComplete
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HRApp2\obj\Debug\HRApp2.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HRApp2\obj\Debug\HRApp2.pdb

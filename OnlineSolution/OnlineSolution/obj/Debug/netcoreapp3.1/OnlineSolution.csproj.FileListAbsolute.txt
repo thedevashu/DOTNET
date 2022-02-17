@@ -1,0 +1,14 @@
+Z:\IET_DAC\.NET_Code\OnlineSolution\OnlineSolution\bin\Debug\netcoreapp3.1\OnlineSolution.exe
+Z:\IET_DAC\.NET_Code\OnlineSolution\OnlineSolution\bin\Debug\netcoreapp3.1\OnlineSolution.deps.json
+Z:\IET_DAC\.NET_Code\OnlineSolution\OnlineSolution\bin\Debug\netcoreapp3.1\OnlineSolution.runtimeconfig.json
+Z:\IET_DAC\.NET_Code\OnlineSolution\OnlineSolution\bin\Debug\netcoreapp3.1\OnlineSolution.runtimeconfig.dev.json
+Z:\IET_DAC\.NET_Code\OnlineSolution\OnlineSolution\bin\Debug\netcoreapp3.1\OnlineSolution.dll
+Z:\IET_DAC\.NET_Code\OnlineSolution\OnlineSolution\bin\Debug\netcoreapp3.1\OnlineSolution.pdb
+Z:\IET_DAC\.NET_Code\OnlineSolution\OnlineSolution\obj\Debug\netcoreapp3.1\OnlineSolution.GeneratedMSBuildEditorConfig.editorconfig
+Z:\IET_DAC\.NET_Code\OnlineSolution\OnlineSolution\obj\Debug\netcoreapp3.1\OnlineSolution.AssemblyInfoInputs.cache
+Z:\IET_DAC\.NET_Code\OnlineSolution\OnlineSolution\obj\Debug\netcoreapp3.1\OnlineSolution.AssemblyInfo.cs
+Z:\IET_DAC\.NET_Code\OnlineSolution\OnlineSolution\obj\Debug\netcoreapp3.1\OnlineSolution.csproj.CoreCompileInputs.cache
+Z:\IET_DAC\.NET_Code\OnlineSolution\OnlineSolution\obj\Debug\netcoreapp3.1\OnlineSolution.dll
+Z:\IET_DAC\.NET_Code\OnlineSolution\OnlineSolution\obj\Debug\netcoreapp3.1\OnlineSolution.pdb
+Z:\IET_DAC\.NET_Code\OnlineSolution\OnlineSolution\obj\Debug\netcoreapp3.1\OnlineSolution.genruntimeconfig.cache
+Z:\IET_DAC\.NET_Code\OnlineSolution\OnlineSolution\obj\Debug\netcoreapp3.1\OnlineSolution.csproj.AssemblyReference.cache

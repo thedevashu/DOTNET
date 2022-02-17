@@ -1,0 +1,10 @@
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HRLib\bin\Debug\netcoreapp3.1\HRLib.deps.json
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HRLib\bin\Debug\netcoreapp3.1\HRLib.dll
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HRLib\bin\Debug\netcoreapp3.1\HRLib.pdb
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HRLib\obj\Debug\netcoreapp3.1\HRLib.csproj.AssemblyReference.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HRLib\obj\Debug\netcoreapp3.1\HRLib.GeneratedMSBuildEditorConfig.editorconfig
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HRLib\obj\Debug\netcoreapp3.1\HRLib.AssemblyInfoInputs.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HRLib\obj\Debug\netcoreapp3.1\HRLib.AssemblyInfo.cs
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HRLib\obj\Debug\netcoreapp3.1\HRLib.csproj.CoreCompileInputs.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HRLib\obj\Debug\netcoreapp3.1\HRLib.dll
+Z:\IET_DAC\.NET_Code\HelloWorldApp\HRLib\obj\Debug\netcoreapp3.1\HRLib.pdb

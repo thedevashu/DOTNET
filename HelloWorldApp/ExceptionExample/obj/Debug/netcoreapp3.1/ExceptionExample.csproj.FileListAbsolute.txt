@@ -1,0 +1,14 @@
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ExceptionExample\bin\Debug\netcoreapp3.1\ExceptionExample.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ExceptionExample\bin\Debug\netcoreapp3.1\ExceptionExample.deps.json
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ExceptionExample\bin\Debug\netcoreapp3.1\ExceptionExample.runtimeconfig.json
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ExceptionExample\bin\Debug\netcoreapp3.1\ExceptionExample.runtimeconfig.dev.json
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ExceptionExample\bin\Debug\netcoreapp3.1\ExceptionExample.dll
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ExceptionExample\bin\Debug\netcoreapp3.1\ExceptionExample.pdb
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ExceptionExample\obj\Debug\netcoreapp3.1\ExceptionExample.csproj.AssemblyReference.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ExceptionExample\obj\Debug\netcoreapp3.1\ExceptionExample.GeneratedMSBuildEditorConfig.editorconfig
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ExceptionExample\obj\Debug\netcoreapp3.1\ExceptionExample.AssemblyInfoInputs.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ExceptionExample\obj\Debug\netcoreapp3.1\ExceptionExample.AssemblyInfo.cs
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ExceptionExample\obj\Debug\netcoreapp3.1\ExceptionExample.csproj.CoreCompileInputs.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ExceptionExample\obj\Debug\netcoreapp3.1\ExceptionExample.dll
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ExceptionExample\obj\Debug\netcoreapp3.1\ExceptionExample.pdb
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ExceptionExample\obj\Debug\netcoreapp3.1\ExceptionExample.genruntimeconfig.cache

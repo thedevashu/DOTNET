@@ -1,0 +1,6 @@
+Z:\IET_DAC\.NET_Code\HelloWorldApp\GraphicLibClass\bin\Debug\GraphicLibClass.dll
+Z:\IET_DAC\.NET_Code\HelloWorldApp\GraphicLibClass\bin\Debug\GraphicLibClass.pdb
+Z:\IET_DAC\.NET_Code\HelloWorldApp\GraphicLibClass\obj\Debug\GraphicLibClass.csproj.AssemblyReference.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\GraphicLibClass\obj\Debug\GraphicLibClass.csproj.CoreCompileInputs.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\GraphicLibClass\obj\Debug\GraphicLibClass.dll
+Z:\IET_DAC\.NET_Code\HelloWorldApp\GraphicLibClass\obj\Debug\GraphicLibClass.pdb

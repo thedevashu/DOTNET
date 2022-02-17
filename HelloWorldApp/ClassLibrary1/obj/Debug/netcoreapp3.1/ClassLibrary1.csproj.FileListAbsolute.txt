@@ -1,0 +1,10 @@
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.deps.json
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.AssemblyReference.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfoInputs.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfo.cs
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.dll
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.pdb
