@@ -2,10 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\HelloWorldApp",
-    "\\HelloWorldApp\\HelloWorldApp",
-    "\\OnlineSolution",
-    "\\OnlineSolution\\OnlineSolution"
+    "\\HelloWorldApp\\HelloWorldApp"
   ],
-  "SelectedNode": "\\HelloWorldApp\\HelloWorldApp\\Person.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,7 @@
+Z:\IET_DAC\.NET_Code\HelloWorldApp\GarbageCollectorDemo\bin\Debug\GarbageCollectorDemo.exe.config
+Z:\IET_DAC\.NET_Code\HelloWorldApp\GarbageCollectorDemo\bin\Debug\GarbageCollectorDemo.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\GarbageCollectorDemo\bin\Debug\GarbageCollectorDemo.pdb
+Z:\IET_DAC\.NET_Code\HelloWorldApp\GarbageCollectorDemo\obj\Debug\GarbageCollectorDemo.csproj.AssemblyReference.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\GarbageCollectorDemo\obj\Debug\GarbageCollectorDemo.csproj.CoreCompileInputs.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\GarbageCollectorDemo\obj\Debug\GarbageCollectorDemo.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\GarbageCollectorDemo\obj\Debug\GarbageCollectorDemo.pdb

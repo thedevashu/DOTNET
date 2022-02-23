@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GraphicLibClass
 {
-    public class Line:Shape
+    public class Line:Shape,IPrintable
     {
         Point StartPoint { get; set; }
         Point EndPoint { get; set; }
@@ -25,6 +25,21 @@ namespace GraphicLibClass
         {
              
             return "Start: "+StartPoint+" End:"+EndPoint ;
+        }
+
+        public void printOnPaper()
+        {
+            Console.WriteLine("Printing On A4 Paper: " + this.ToString());
+        }
+
+        public void PrintOnTV()
+        {
+            Console.WriteLine("Printing On Tv Screen: " + this.ToString());
+        }
+
+        public void PrintOnAir()
+        {
+            Console.WriteLine("Hologram In Air of: " + this.ToString());
         }
     }
 }

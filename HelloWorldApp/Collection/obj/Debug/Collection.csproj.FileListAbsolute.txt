@@ -1,0 +1,7 @@
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Collection\bin\Debug\Collection.exe.config
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Collection\bin\Debug\Collection.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Collection\bin\Debug\Collection.pdb
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Collection\obj\Debug\Collection.csproj.AssemblyReference.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Collection\obj\Debug\Collection.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Collection\obj\Debug\Collection.pdb

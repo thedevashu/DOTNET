@@ -1,0 +1,7 @@
+Z:\IET_DAC\.NET_Code\HelloWorldApp\IOFileHandling\bin\Debug\IOFileHandling.exe.config
+Z:\IET_DAC\.NET_Code\HelloWorldApp\IOFileHandling\bin\Debug\IOFileHandling.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\IOFileHandling\bin\Debug\IOFileHandling.pdb
+Z:\IET_DAC\.NET_Code\HelloWorldApp\IOFileHandling\obj\Debug\IOFileHandling.csproj.AssemblyReference.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\IOFileHandling\obj\Debug\IOFileHandling.csproj.CoreCompileInputs.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\IOFileHandling\obj\Debug\IOFileHandling.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\IOFileHandling\obj\Debug\IOFileHandling.pdb

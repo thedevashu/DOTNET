@@ -1,0 +1,7 @@
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Delegate\bin\Debug\Delegate.exe.config
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Delegate\bin\Debug\Delegate.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Delegate\bin\Debug\Delegate.pdb
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Delegate\obj\Debug\Delegate.csproj.AssemblyReference.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Delegate\obj\Debug\Delegate.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Delegate\obj\Debug\Delegate.pdb

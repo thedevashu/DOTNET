@@ -1,0 +1,7 @@
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Infix to prefix\bin\Debug\Infix to prefix.exe.config
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Infix to prefix\bin\Debug\Infix to prefix.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Infix to prefix\bin\Debug\Infix to prefix.pdb
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Infix to prefix\obj\Debug\Infix to prefix.csproj.AssemblyReference.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Infix to prefix\obj\Debug\Infix to prefix.csproj.CoreCompileInputs.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Infix to prefix\obj\Debug\Infix to prefix.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Infix to prefix\obj\Debug\Infix to prefix.pdb

@@ -1,0 +1,7 @@
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ClonnigApp\bin\Debug\ClonnigApp.exe.config
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ClonnigApp\bin\Debug\ClonnigApp.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ClonnigApp\bin\Debug\ClonnigApp.pdb
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ClonnigApp\obj\Debug\ClonnigApp.csproj.AssemblyReference.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ClonnigApp\obj\Debug\ClonnigApp.csproj.CoreCompileInputs.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ClonnigApp\obj\Debug\ClonnigApp.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\ClonnigApp\obj\Debug\ClonnigApp.pdb

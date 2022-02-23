@@ -1,0 +1,7 @@
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Reflection\bin\Debug\Reflection.exe.config
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Reflection\bin\Debug\Reflection.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Reflection\bin\Debug\Reflection.pdb
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Reflection\obj\Debug\Reflection.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Reflection\obj\Debug\Reflection.pdb

@@ -1,0 +1,7 @@
+Z:\IET_DAC\.NET_Code\HelloWorldApp\IndexerDemo\bin\Debug\IndexerDemo.exe.config
+Z:\IET_DAC\.NET_Code\HelloWorldApp\IndexerDemo\bin\Debug\IndexerDemo.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\IndexerDemo\bin\Debug\IndexerDemo.pdb
+Z:\IET_DAC\.NET_Code\HelloWorldApp\IndexerDemo\obj\Debug\IndexerDemo.csproj.AssemblyReference.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\IndexerDemo\obj\Debug\IndexerDemo.csproj.CoreCompileInputs.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\IndexerDemo\obj\Debug\IndexerDemo.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\IndexerDemo\obj\Debug\IndexerDemo.pdb

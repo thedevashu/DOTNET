@@ -1,0 +1,5 @@
+Z:\IET_DAC\.NET_Code\EcommerceSolution\BOL\bin\Debug\BOL.dll
+Z:\IET_DAC\.NET_Code\EcommerceSolution\BOL\bin\Debug\BOL.pdb
+Z:\IET_DAC\.NET_Code\EcommerceSolution\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+Z:\IET_DAC\.NET_Code\EcommerceSolution\BOL\obj\Debug\BOL.dll
+Z:\IET_DAC\.NET_Code\EcommerceSolution\BOL\obj\Debug\BOL.pdb

@@ -1,0 +1,7 @@
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Event Example\bin\Debug\Event Example.exe.config
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Event Example\bin\Debug\Event Example.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Event Example\bin\Debug\Event Example.pdb
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Event Example\obj\Debug\Event Example.csproj.AssemblyReference.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Event Example\obj\Debug\Event Example.csproj.CoreCompileInputs.cache
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Event Example\obj\Debug\Event Example.exe
+Z:\IET_DAC\.NET_Code\HelloWorldApp\Event Example\obj\Debug\Event Example.pdb
