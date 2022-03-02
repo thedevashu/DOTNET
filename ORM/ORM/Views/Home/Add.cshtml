@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Add";
+}
+
+<h2>Add</h2>
+
+<form action="/home/add" method="post">
+    <input type="number" id="Id" name="Id" value="@Model.Id" />
+    <input type="text" id="PrductName" name="PrductName" value="@Model.PrductName" />
+    <input type="text" id="Dsc" name="Dsc" value="@Model.Dsc" />
+    <input type="number" id="Price" name="Price" value="@Model.Price" />
+    <input type="number" id="Quantity" name="Quantity" value="@Model.Quantity" />
+    <button type="submit">Add</button>
+</form>

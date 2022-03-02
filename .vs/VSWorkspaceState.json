@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\HelloWorldApp",
+    "\\HelloWorldApp\\GarbageCollectorDemo",
     "\\HelloWorldApp\\HelloWorldApp"
   ],
+  "SelectedNode": "\\HelloWorldApp\\GarbageCollectorDemo\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

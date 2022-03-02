@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@using ORM.Models;
+@{ 
+    foreach (Product p in Model)
+            {
+                <h1>@p.PrductName</h1><a href="/home/info/@p.Id">Info</a><span> | </span><a href="/home/edit/@p.Id">Edit</a><span> | </span><a href="/home/delete/@p.Id">Delete</a>
+            }
+}
+<h2><a href="/home/add">Add new</a></h2>
+

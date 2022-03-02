@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewBag.Title = "Info";
+}
+
+<h2>Info</h2>
+@using ORM.Models;
+@{ 
+    Product p = Model;
+    <h3>@p.PrductName | @p.Dsc | @p.Price | @p.Quantity</h3>
+}

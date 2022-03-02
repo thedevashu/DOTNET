@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "Orders";
+}
+@using WebApplicationFlower.Models;
+<h2>Orders</h2>
+@{ 
+    var ord = ViewBag.orders;
+    foreach(SelectedProduct sp in ord)
+            {
+                <p>@sp.Id | @sp.Quantity</p>
+            }
+}

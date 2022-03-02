@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "Cart";
+}
+@using WebApplicationFlower.Models;
+
+
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+
+        <ul class="nav navbar-nav">
+            <li class="active"><a href="/home/index">Home</a></li>
+
+            <li><a href="/home/aboutus">AboutUs</a></li>
+            <li><a href="/home/contact">Contact</a></li>
+            <li><a href="/product/index">Products</a></li>
+        </ul>
+    </div>
+</nav>
+
+@{ 
+    SelectedProduct selected = ViewBag.SProd;
+    <div>
+        <form method="post" action="/shop/cart">
+            Product Id:<input type="number" value="@selected.Id" id="id" name="id"/>
+            Quantity<input type="number" value="@selected.Quantity" id="quantity" name="quantity" />
+            <button type="submit"> Add</button>
+        </form>
+    </div>
+}
+
+
